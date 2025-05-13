@@ -1,0 +1,21 @@
+# Ignore compiled class files
+*.class
+
+# Ignore build directory
+/bin/
+/build/
+
+# IntelliJ IDEA files
+*.iml
+.idea/
+
+# Eclipse files
+.project
+.classpath
+.settings/
+
+# VS Code settings
+.vscode/
+
+# Mac OS system files
+.DS_Store
